@@ -20,3 +20,4 @@ PRETRAINED_MODEL = './resnet50-19c8e357.pth'
 
 ##训练完成，权重文件的保存路径,默认保存在trained_models下
 TRAINED_MODEL = 'trained_models/vehicle-10_record.pth'
+123134213
