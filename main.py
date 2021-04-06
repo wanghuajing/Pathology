@@ -20,7 +20,6 @@ def main():
     # for i, (image, label) in enumerate(dataset):
     #     print(label)
     resnet18 = models.resnet18(pretrained=True)
-    a=1
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
