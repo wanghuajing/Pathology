@@ -42,7 +42,7 @@ def make_pathology(pathology):
     return 1.0 if pathology == "MALIGNANT" else 0.0
 
 
-class DatasetGenerator(Dataset):
+class imgdataset(Dataset):
 
     # --------------------------------------------------------------------------------
 
